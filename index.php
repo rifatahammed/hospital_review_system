@@ -129,7 +129,7 @@
 			<!-- Third card start with image and link  -->
 			<div class="col-lg-4 col-md-4 col-12">
 					<div class="card">
-							  <img class="card-img-top" src="images/covid4.jpg" alt="Card image">
+							  <img class="card-img-top" src="images/covid3.jpg" alt="Card image">
 							  <div class="card-body">
 								<h4 class="card-title">Today's death : <span id="today-death"></span> </h4>
 								<p class="card-text">Some example text.</p>
@@ -141,7 +141,7 @@
 			<!-- Forth card start with image and link  -->
 			<div class="col-lg-4 col-md-4 col-12">
 					<div class="card">
-							  <img class="card-img-top" src="images/covid3.jpg" alt="Card image">
+							  <img class="card-img-top" src="images/covid4.jpeg" alt="Card image">
 							  <div class="card-body">
 								<h4 class="card-title">Total death : <span id="death"></span> </h4>
 								<p class="card-text">Some example text.</p>
@@ -153,7 +153,7 @@
 			<!-- Fifth card start with image and link  -->
 			<div class="col-lg-4 col-md-4 col-12">
 					<div class="card">
-							  <img class="card-img-top" src="images/covid3.jpg" alt="Card image">
+							  <img class="card-img-top" src="images/covid5.jpg" alt="Card image">
 							  <div class="card-body">
 								<h4 class="card-title">Recovered : <span id="recovered"></span> </h4>
 								<p class="card-text">Some example text.</p>
