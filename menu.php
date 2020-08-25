@@ -19,8 +19,8 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="post.php">Post a review</a>
           <a class="dropdown-item" href="timeline.php">See review timeline</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="admindashboard.php">Admin Dashboard</a>
+          <!-- <div class="dropdown-divider"></div> -->
+          <!-- <a class="dropdown-item" href="admindashboard.php">Admin Dashboard</a> -->
         </div>
       </li>
 	  

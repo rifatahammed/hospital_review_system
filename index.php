@@ -62,18 +62,18 @@
 	<div class="py-5">
 		<h3 class="text-center">Why this website</h3>
 	</div>
-	<div class"container-fluid">	
+	<div class "container-fluid">	
 	<div class="row">
 		<!--image of floating 2 section text and image -->
 		<div class="col-lg-6 col-md-6 col-12">
-			 <img src="images/healthy.jpg" class="img-fluid aboutimg">
+			 <img src="images/why.jpg" class="img-fluid aboutimg">
 		</div>
 		<!--text of floating 2 section text and image -->
 		<div class="col-lg-6 col-md-6 col-12">
-			 <h2 class="display-4">aagagagagagguyhfduyuhf</h2>
-				<p class="py-5">uigiuiguiugiudfigudiguisdfuiugiusdfiguixduiu
-				ddjdjdjddddddddddjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-				iugioxdigusiouisdugiosgiusiugisergisyhgis</p>			 
+			 <h2 class="display-4">Share your experiences </h2>
+				<p class="py-5">Share your experiences about the hospitals. What kinds of
+				Service you got from them , whats the overall structure of their hospital, how they behave with Patients.
+			By shareing your experiences with others, you are not only helping others to choose the best service, but also forcing hospitals to be the best</p>			 
 			<a href="about.php" class="btn btn-success"> Check more </a>
 		</div>
 	</div>
@@ -178,32 +178,32 @@
 		<div class="row">
 			<!-- Individual Photo Start---->
 			<div class="col-lg-4 col-md-4 col-12">
-				<img src="images/pg1.jpg" class="img-fluid pb-3">
+				<img src="images/photogallery/pg1.jpg" class="img-fluid pb-3">
 			</div>
 			<!-- Individual Photo end---->
 			<!-- Individual Photo Start---->
 			<div class="col-lg-4 col-md-4 col-12">
-				<img src="images/pg1.jpg" class="img-fluid pb-3">
+				<img src="images/photogallery/pg2.jpg" class="img-fluid pb-3">
 			</div>
 			<!-- Individual Photo end---->
 			<!-- Individual Photo Start---->
 			<div class="col-lg-4 col-md-4 col-12">
-				<img src="images/pg1.jpg" class="img-fluid pb-3">
+				<img src="images/photogallery/pg3.jpg" class="img-fluid pb-3">
 			</div>
 			<!-- Individual Photo end---->
 			<!-- Individual Photo Start---->
 			<div class="col-lg-4 col-md-4 col-12">
-				<img src="images/pg1.jpg" class="img-fluid pb-3">
+				<img src="images/photogallery/pg4.jpg" class="img-fluid pb-3">
 			</div>
 			<!-- Individual Photo end---->
 			<!-- Individual Photo Start---->
 			<div class="col-lg-4 col-md-4 col-12">
-				<img src="images/pg1.jpg" class="img-fluid pb-3">
+				<img src="images/photogallery/pg5.jpg" class="img-fluid pb-3">
 			</div>
 			<!-- Individual Photo end---->
 			<!-- Individual Photo Start---->
 			<div class="col-lg-4 col-md-4 col-12">
-				<img src="images/pg1.jpg" class="img-fluid pb-3">
+				<img src="images/photogallery/pg6.jpg" class="img-fluid pb-3">
 			</div>
 			<!-- Individual Photo end---->
 		</div>				
@@ -212,43 +212,11 @@
  </section>
  <!-- Photo Galerry end---->
  
- 
- 
- <!-- Form---->
- <section class="my-5">
-	<!-- Heading  -->
-	<div class="py-5">
-		<h3 class="text-center">Form</h3>
-	</div>
-	
-	<div class="w-50 m-auto">
-		<form action="userinfo.php" method="post">
-			 <!-- Fields of Forms start---->
-			<div class="form-group">
-				<label>Username</label>
-				<input type="text" name="user" autocomplete="off" class="form-control">
-			</div>
-			<div class="form-group">
-				<label>Email Id</label>
-				<input type="text" name="email" autocomplete="off" class="form-control">
-			</div>
-			<div class="form-group">
-				<label>Mobile</label>
-				<input type="text" name="mobile" autocomplete="off" class="form-control">
-			</div>
-			<div class="form-group">
-				<label>Comments</label>
-				<textarea class="form-control" name="comment"> </textarea>
-			</div>
-			<button type="submit" class="btn btn-primary">Submit</button>
-			<!-- Fields of Forms start---->
-		</form>
-	</div>
- </section>
-  <!-- Form End---->
+
+
  
 
-<!-- Adding footer from menu.php -->
+<!-- Adding footer from footer.php -->
 <?php include 'footer.php'; ?> 
 
 
