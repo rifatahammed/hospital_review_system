@@ -10,7 +10,7 @@ function moveMapToDhaka(map){
 //Step 1: initialize communication with the platform
 // In your own code, replace variable window.apikey with your own apikey
 var platform = new H.service.Platform({
-  apikey: 'W9ke45XSNHpuwIIAfHmXDgxug7z16B1m6TZQ2vzpIEI'
+  apikey: ''//PASTE YOUR APIKEY KEY HERE between ''
 });
 var defaultLayers = platform.createDefaultLayers();
 
